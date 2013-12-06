@@ -1,4 +1,5 @@
 require 'rakuten_web_service'
+require 'pry'
 
 RakutenWebService.configuration do |c|
   c.application_id = '1045593932566223289'
